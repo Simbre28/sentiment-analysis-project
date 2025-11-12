@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # sentiment-analysis-project
 This is a project to get a pretrained AI model from Hugging Face working for modern movie review sentiment analysis 
 =======
@@ -336,7 +337,11 @@ Project Link: https://github.com/your-username/sentiment-analysis-project
 Acknowledgments
 
 Hugging Face for the DistilBERT model
-\[Any datasets used]
+\Hugging Face IMDB Dataset
 \[Any other resources or inspirations]
 
 >>>>>>> 519dc38 (Initial commit o our AI Sentiment Analysis program)
+=======
+# sentiment-analysis-project
+This is a project to get a pretrained AI model from Hugging Face working for modern movie review sentiment analysis 
+>>>>>>> 5519c84ae4477f3ba4390e1dc869e4260935328a
